@@ -2,7 +2,8 @@
 
 ## 🖥️ 프로젝트 소개
 
-개발 첫 프로젝트
+- 간단한 자기 소개
+- 개발 첫 프로젝트
 
 ## 🕰️ 개발 기간
 
@@ -11,7 +12,6 @@
 ### 🧑‍🤝‍🧑 맴버구성
 
 -   이용훈 개인 프로젝트
-- 
 ### ⚙️ 개발 환경
 
 [](https://github.com/ChaeHyunWoo/SpringBoot-Project-MEGABOX#%EF%B8%8F-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD)
